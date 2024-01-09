@@ -30,3 +30,8 @@ As you see, AITA stories are extremely not neutral…
 
 <img width="743" alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/736530d0-a33f-46c3-a097-930931976510">
 
+## Modeling
+Binary Labeling:'Asshole' tagged as 1. 'Not The A-hole' tagged as 0.
+<img width="807" alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/c1b34547-be0b-47f0-bcc1-f741f154d484">
+
+
