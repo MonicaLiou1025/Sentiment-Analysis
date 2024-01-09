@@ -8,7 +8,7 @@
 ## Data Scrapping
 Utilizing PRAW (Python Reddit API Wrapper), our script collects posts from different categories (e.g., controversial, hot, new, rising, top of all time, top of the year) and compiles them into various CSV files.
 
-<img width="605" alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/3c855f37-1d32-4a2a-9011-87d2c4f52959">
+<img alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/3c855f37-1d32-4a2a-9011-87d2c4f52959">
 
 
 ## Word Frequency
@@ -20,16 +20,16 @@ Through Word Tokenization and Part-of-Speech Tagging, we identified commonly occ
 ## Lift Value Analysis
 This section examines attributes that sway a post towards being judged as 'Not the Asshole' (NTA) or 'Asshole' (YTA). Our findings suggest mentioning a 'wife' or 'girlfriend' in posts correlates with a higher likelihood of being labeled YTA, while references to 'husband' or 'boyfriend' are less likely to receive such judgments. Interestingly, 'mom' mentions also tend to avoid the YTA tag.
 
-<img width="613" alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/e8f02890-0cab-49ff-83f4-22f500982974">
+<img alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/e8f02890-0cab-49ff-83f4-22f500982974">
 
 ## Sentiment Analysis
 Using the VADER (Valence Aware Dictionary and sEntiment Reasoner) tool, we scored texts on a scale from -1 (most negative) to +1 (most positive). The analysis reveals a significant lean towards non-neutral sentiments in AITA stories.
 
-<img width="743" alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/736530d0-a33f-46c3-a097-930931976510">
+<img alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/736530d0-a33f-46c3-a097-930931976510">
 
 ## Modeling
 For classification, posts tagged as 'Asshole' are labeled as 1, and 'Not The Asshole' are labeled as 0.
 
-<img width="807" alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/c1b34547-be0b-47f0-bcc1-f741f154d484">
+<img alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/c1b34547-be0b-47f0-bcc1-f741f154d484">
 
 
