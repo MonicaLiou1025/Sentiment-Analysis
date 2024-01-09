@@ -16,4 +16,14 @@ We uses PRAW (Python Reddit API Wrapper) to interact with Reddit. The script col
 ## Word Frequency
 We use Word Tokenization and Part-of-Speech Tagging to find out the main characters or nouns. As you see in the below, the results are all about people and mostly showed pairs: For example, we got husband and wife here, sister and brother, daughter and son, girlfriend and boyfriend. But, hold on a second. We've got 'mom' on the list, but where's 'dad'? It seems like dads are often overlooked or not mentioned as much in the AITA tales, or perhaps, the less problematic ones in the AITA community. That's our little aha moment! So Good job, dad!
 
-![output](https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/88dd92c2-e303-4f37-abd4-521e24fbda67)
+![image](https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/18f1354e-57b7-4784-9b24-7b9e1fb0530a)
+
+
+## Lift Value
+What attributes make a post in Reddit's AITA community lean towards 'Not the A-hole' (NTA) or 'Asshole' (YTA)? In this chart, the 'Lift Percentage' for YTA is calculated by taking its YTA lift value and dividing it by the sum of the lift values for both NTA and YTA. Let’s see the result, if you mention wife, girlfriend in your AITA post topic, dude, you have a high percentage of being an asshole. I will send this report to my boyfriend, if he wants to judge me on AITA community, he is probably the one who is having issue. Also, if you mention your child and kids, you are probable an asshole as well. However, if you mention husband or boyfriend, it seems that you are not asshole at all. That make sense to me. So if I want to complain my bf in the AITA community, I have low percentage of being an asshole.  And if you mention ‘mom’, okay you are not asshole too! 
+
+<img width="613" alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/e8f02890-0cab-49ff-83f4-22f500982974">
+
+## Sentiment Analysis
+<img width="743" alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/736530d0-a33f-46c3-a097-930931976510">
+
