@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Sentiment-Analysis-On-Reddit
 
 ![image](https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/03c9c743-459f-4da1-bb3b-4f8b60de6706)
 
