@@ -29,7 +29,7 @@ Using the VADER (Valence Aware Dictionary and sEntiment Reasoner) tool, we score
 
 ## Modeling
 For classification, posts tagged as 'Asshole' are labeled as 1, and 'Not The Asshole' are labeled as 0.
-
+The results will give the judgment of whether a post is classified as "Am I the Asshole" or not and provide Probability Scores of the classification. The BERT model is more accurate by a margin of 10.75% compared to the Random Forest model. This suggests that for this particular task, BERT is better at understanding the context and nuances of the language used in AITA posts.
 <img alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/c1b34547-be0b-47f0-bcc1-f741f154d484">
 
 
