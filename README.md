@@ -25,5 +25,8 @@ What attributes make a post in Reddit's AITA community lean towards 'Not the A-h
 <img width="613" alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/e8f02890-0cab-49ff-83f4-22f500982974">
 
 ## Sentiment Analysis
+We use VADER (Valence Aware Dictionary and sEntiment Reasoner) sentiment analysis tool to score the text from from -1 (most negative) to +1 (most positive).
+As you see, AITA stories are extremely not neutral…
+
 <img width="743" alt="image" src="https://github.com/MonicaLiou1025/Sentiment-Analysis/assets/140920765/736530d0-a33f-46c3-a097-930931976510">
 
